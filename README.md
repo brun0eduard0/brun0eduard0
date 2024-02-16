@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brun0eduard0
-- 👀 I’m interested in Machine Learning, Backend Development, Full Stack development, Research, Computer Network and Coding
-- 🌱 I’m currently learning Machine Learning, Python, LaTeX, Docker
+- 👀 I’m interested in Machine Learning, Backend Development, DevOps, Research, Computer Network and Coding
+- 🌱 I’m currently learning: Java, Python and Flutter
 - 📫 How to reach me: mail to brunoeduardo.cc@gmail.com
 
 <!---
